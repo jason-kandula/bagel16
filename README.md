@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason Kandula
-- 👀 I’m interested in front-end development, artificial intelligence, neural networks, and cloud computing.
+- 👀 I’m interested in front-end development, artificial intelligence, machine learning, neural networks, and cloud computing.
 - 🌱 I’m currently a sophomore at UIUC studying CS+Philosophy.
 
 <!---
